@@ -1,0 +1,162 @@
+{
+  "name": "Deniz Karasakal",
+  "role": "Management Information Systems Student · Boğaziçi University · Bilingual",
+  "contact": [
+    {
+      "label": "Email",
+      "value": "denizbogazici64@gmail.com",
+      "href": "mailto:denizbogazici64@gmail.com"
+    },
+    {
+      "label": "Beşiktaş, Istanbul",
+      "value": "Beşiktaş, Istanbul"
+    }
+  ],
+  "summary": "Second-year Management Information Systems student at Boğaziçi University. I analyze data with Python and SQL, build web projects with AI-assisted coding, and lead the Boğaziçi Chess Club as its president. Former national-pool chess athlete.",
+  "experience": [
+    {
+      "title": "Executive Board Member & President",
+      "org": "Boğaziçi Chess Club",
+      "date": "Mar 2025 – Present",
+      "points": [
+        "President since June 2026, after serving as Vice President",
+        "Responsible for strategic planning, budget allocation, and representing the club at the Inter-Club Council (KAK)"
+      ]
+    },
+    {
+      "title": "PR (Public Relations) Leader",
+      "org": "COMPEC – Boğaziçi University Information Systems Club",
+      "date": "Mar 2025 – Aug 2026",
+      "points": [
+        "Managed corporate communication strategies, sponsorship relations, and brand identity",
+        "Event photography: official photographer and content creator for Boğaziçi Business Awards and Datacamp, managing visual storytelling and field operations",
+        "Digital art training: delivered sessions on Ibis Paint and Procreate"
+      ]
+    },
+    {
+      "title": "Food & Beverage Associate (Work & Travel Program)",
+      "org": "Kings Dominion, Richmond, Virginia, USA",
+      "date": "Summer 2026 (3 months)",
+      "points": [
+        "Worked three months in the United States through the Work & Travel USA program",
+        "Provided customer service in a fast-paced theme park food and beverage operation, working with an international team"
+      ]
+    },
+    {
+      "title": "Chess Private Lessons (Freelance)",
+      "org": "Istanbul",
+      "date": "2026 – Present",
+      "points": [
+        "Personalized tutoring in intermediate chess theory",
+        "Designed adaptive lesson plans based on student needs",
+        "Improved communication and instructional techniques"
+      ]
+    },
+    {
+      "title": "Customer Representative",
+      "org": "Sentetik Sezar, Istanbul",
+      "date": "2025",
+      "points": [
+        "Assisted customers in a retail environment, handled returns and complaints",
+        "Operated and maintained product displays",
+        "Strengthened problem-solving and teamwork abilities"
+      ]
+    }
+  ],
+  "volunteering": [
+    {
+      "title": "Volunteer Instructor – Algorithm Workshop",
+      "org": "Teknodolu · Aksaray (with COMPEC)",
+      "date": "2026",
+      "points": [
+        "Served as an instructor in an algorithm workshop for disadvantaged children in Aksaray"
+      ]
+    },
+    {
+      "title": "Registered Volunteer",
+      "org": "TEMA Foundation · Boğaziçi University",
+      "date": "",
+      "points": [
+        "Registered as a TEMA volunteer at Boğaziçi University",
+        "Support reforestation through donations for tree planting"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "ÜNİDES-Supported National FIDE Chess Tournament",
+      "org": "Boğaziçi Chess Club · ÜNİDES / Ministry of Youth and Sports",
+      "date": "Oct 2026 – Jan 2027",
+      "points": [
+        "Taking part in the application and organization of a national-scale FIDE chess tournament, planned for January 2027 at Subarea"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "title": "B.Sc. in Management Information Systems",
+      "org": "Boğaziçi University",
+      "date": "2024 – Present",
+      "points": [
+        "2nd-year student"
+      ]
+    },
+    {
+      "title": "Data Analytics School",
+      "org": "Joint program by Boğaziçi, Marmara, ITU & METU · Graduate",
+      "date": "Oct 2025 – Jun 2026",
+      "points": [
+        "Developed projects in Data Analytics, Machine Learning fundamentals, and Data Visualization using Python and SQL"
+      ]
+    },
+    {
+      "title": "Şehremini Anatolian High School",
+      "org": "Environment Club, Chess Club, Music Club member",
+      "date": "2020 – 2024",
+      "points": [
+        "Performed with my band at inter-high-school music festivals"
+      ]
+    },
+    {
+      "title": "Science and Art Center (BİLSEM) – Special Talent Program",
+      "org": "Fine Arts, Literature, and Advanced Mathematics",
+      "date": "2016 – 2024",
+      "points": [
+        "Completed an 8-year gifted education program",
+        "Contributed paintings and sculptures to three group exhibitions"
+      ]
+    }
+  ],
+  "technicalSkills": [
+    "Python (Intermediate)",
+    "SQL (SELECT, JOIN, filtering)",
+    "Microsoft Excel (Beginner)",
+    "SPSS (Beginner)",
+    "Procreate & Canva (proficient)",
+    "Google Workspace",
+    "ChatGPT (basic)"
+  ],
+  "softSkills": [
+    "Teamwork & Communication",
+    "Analytical Thinking",
+    "Time Management & Organization",
+    "Fast Learner"
+  ],
+  "languages": [
+    "Turkish",
+    "English – B2",
+    "Italian – A1 (Boğaziçi course)"
+  ],
+  "certificates": [
+    "COMPEC – Boğaziçi University: Introduction to Programming with Python (2025); PR member / leader for Techsummit 2025 & 2026, Datacamp 2026, Digitalized 2026 and Boğaziçi Bilişim Ödülleri 2026",
+    "Boğaziçi Radio Awards 2025 (Radyo Boğaziçi) – PR leader",
+    "Alma Mater Chess Tournament (Edition 2) – International Representative (University of Bologna)",
+    "Amateur Photography Certificate (with İFSAK & BUFOK)"
+  ],
+  "additional": [
+    "23 Foundation – Fellow: accepted October 2026, fellow for the 2026–2027 term",
+    "Turkish National Chess Team Selections – National Pool Athlete, 2014–2020",
+    "Illustrator for several fanzines",
+    "Erasmus+ – Face to Face Communication, Romania, 2022"
+  ]
+}

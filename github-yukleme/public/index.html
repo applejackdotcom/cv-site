@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="color-scheme" content="light dark">
+<title>Deniz Karasakal | CV</title>
+<link rel="stylesheet" href="/css/styles.css">
+<script type="module" src="/js/main.js"></script>
+</head>
+<body>
+
+<nav id="nav" aria-label="Sections">
+  <b id="navName"></b>
+  <div class="nav-right"><div class="links" id="navLinks"></div><button class="lang-btn" type="button"></button></div>
+</nav>
+
+<button class="lang-btn lang-top" type="button"></button>
+
+<main class="wrap">
+  <header>
+    <h1 id="name"></h1>
+    <div class="role" id="role"></div>
+    <div class="contact" id="contact"></div>
+    <p class="lead" id="summary"></p>
+  </header>
+  <div id="cv"></div>
+</main>
+
+<button id="fab" aria-haspopup="dialog" aria-controls="chat">Ask about me</button>
+
+<div id="chat" role="dialog" aria-label="CV Assistant" aria-modal="false">
+  <div class="grab" id="grab">
+    <i></i>
+    <div class="row">
+      <b id="chatTitle">CV Assistant</b>
+      <div class="btns">
+        <button class="icon" id="closeBtn" aria-label="Close">✕</button>
+      </div>
+    </div>
+  </div>
+  <div id="msgs" aria-live="polite"></div>
+  <div class="sugg" id="sugg"></div>
+  <form id="form">
+    <input id="input" placeholder="Ask about my CV" autocomplete="off" enterkeyhint="send" maxlength="500">
+    <button id="send" type="submit">Send</button>
+  </form>
+</div>
+
+</body>
+</html>

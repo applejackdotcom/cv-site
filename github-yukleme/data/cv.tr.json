@@ -1,0 +1,57 @@
+{
+  "name": "Deniz Karasakal",
+  "role": "Yönetim Bilişim Sistemleri Öğrencisi · Boğaziçi Üniversitesi · İki Dilli",
+  "contact": [
+    { "label": "E-posta", "value": "denizbogazici64@gmail.com", "href": "mailto:denizbogazici64@gmail.com" },
+    { "label": "Beşiktaş, İstanbul", "value": "Beşiktaş, İstanbul" }
+  ],
+  "summary": "Boğaziçi Üniversitesi Yönetim Bilişim Sistemleri ikinci sınıf öğrencisiyim. Python ve SQL ile veri analizi yapıyor, yapay zekâ destekli kodlamayla web projeleri geliştiriyorum ve Boğaziçi Satranç Kulübü'nün başkanlığını yürütüyorum. Eski milli takım havuzu satranç oyuncusuyum.",
+  "experience": [
+    { "title": "Yönetim Kurulu Üyesi & Başkan", "org": "Boğaziçi Satranç Kulübü", "date": "Mart 2025 – Günümüz",
+      "points": ["Başkan Yardımcılığının ardından Haziran 2026'dan beri Başkan", "Stratejik planlama, bütçe dağılımı ve kulübün Kulüpler Arası Konsey'de (KAK) temsilinden sorumlu"] },
+    { "title": "Halkla İlişkiler (PR) Lideri", "org": "COMPEC – Boğaziçi Üniversitesi Bilişim Sistemleri Kulübü", "date": "Mart 2025 – Ağustos 2026",
+      "points": ["Kurumsal iletişim stratejilerini, sponsorluk ilişkilerini ve marka kimliğini yönettim",
+                 "Etkinlik fotoğrafçılığı: Boğaziçi Business Awards ve Datacamp için resmî fotoğrafçı ve içerik üreticisi olarak görsel anlatım ve saha operasyonlarını yürüttüm",
+                 "Dijital sanat eğitimi: Ibis Paint ve Procreate üzerine eğitimler verdim"] },
+    { "title": "Yiyecek & İçecek Görevlisi (Work & Travel Programı)", "org": "Kings Dominion, Richmond, Virginia, ABD", "date": "Yaz 2026 (3 ay)",
+      "points": ["Work & Travel USA programıyla Amerika'da üç ay çalıştım", "Hızlı tempolu bir tema parkı yiyecek-içecek operasyonunda, uluslararası bir ekiple müşteri hizmeti verdim"] },
+    { "title": "Özel Satranç Dersleri (Serbest)", "org": "İstanbul", "date": "2026 – Günümüz",
+      "points": ["Orta seviye satranç teorisinde birebir dersler", "Öğrenci ihtiyaçlarına göre uyarlanmış ders planları hazırladım", "İletişim ve öğretim becerilerimi geliştirdim"] },
+    { "title": "Müşteri Temsilcisi", "org": "Sentetik Sezar, İstanbul", "date": "2025",
+      "points": ["Mağaza ortamında müşterilere yardımcı oldum, iade ve şikâyetleri yönettim", "Ürün teşhirlerini düzenledim ve bakımını yaptım", "Problem çözme ve takım çalışması becerilerimi güçlendirdim"] }
+  ],
+  "volunteering": [
+    { "title": "Gönüllü Eğitmen – Algoritma Atölyesi", "org": "Teknodolu · Aksaray (COMPEC ile)", "date": "2026",
+      "points": ["Aksaray'da dezavantajlı çocuklara yönelik bir algoritma atölyesinde eğitmen olarak yer aldım"] },
+    { "title": "Kayıtlı Gönüllü", "org": "TEMA Vakfı · Boğaziçi Üniversitesi", "date": "",
+      "points": ["Boğaziçi Üniversitesi'nde TEMA gönüllüsü olarak kayıtlıyım", "Fidan bağışlarıyla ağaçlandırmaya destek oluyorum"] }
+  ],
+  "projects": [
+    { "title": "ÜNİDES Destekli Ulusal FIDE Satranç Turnuvası", "org": "Boğaziçi Satranç Kulübü · ÜNİDES / Gençlik ve Spor Bakanlığı", "date": "Ekim 2026 – Ocak 2027",
+      "points": ["Ocak 2027'de Subarea'da düzenlenmesi planlanan ulusal ölçekli bir FIDE satranç turnuvasının başvuru ve organizasyon sürecinde görev alıyorum"] }
+  ],
+  "education": [
+    { "title": "Yönetim Bilişim Sistemleri Lisans", "org": "Boğaziçi Üniversitesi", "date": "2024 – Günümüz", "points": ["2. sınıf öğrencisi"] },
+    { "title": "Veri Analitiği Okulu", "org": "Boğaziçi, Marmara, İTÜ ve ODTÜ ortak programı · Mezun", "date": "Ekim 2025 – Haziran 2026",
+      "points": ["Python ve SQL kullanarak Veri Analitiği, Makine Öğrenmesinin temelleri ve Veri Görselleştirme alanlarında projeler geliştirdim"] },
+    { "title": "Şehremini Anadolu Lisesi", "org": "Çevre Kulübü, Satranç Kulübü, Müzik Kulübü üyesi", "date": "2020 – 2024",
+      "points": ["Grubumla liseler arası müzik festivallerinde sahne aldım"] },
+    { "title": "Bilim ve Sanat Merkezi (BİLSEM) – Özel Yetenek Programı", "org": "Resim, Edebiyat ve İleri Matematik", "date": "2016 – 2024",
+      "points": ["8 yıllık üstün yetenekliler eğitim programını tamamladım", "Üç karma sergiye resim ve heykel eserleriyle katıldım"] }
+  ],
+  "technicalSkills": ["Python (Orta)", "SQL (SELECT, JOIN, filtreleme)", "Microsoft Excel (Başlangıç)", "SPSS (Başlangıç)", "Procreate & Canva (ileri)", "Google Workspace", "ChatGPT (temel)"],
+  "softSkills": ["Takım Çalışması & İletişim", "Analitik Düşünme", "Zaman Yönetimi & Organizasyon", "Hızlı Öğrenme"],
+  "languages": ["Türkçe", "İngilizce – B2", "İtalyanca – A1 (Boğaziçi kursu)"],
+  "certificates": [
+    "COMPEC – Boğaziçi Üniversitesi: Python ile Programlamaya Giriş (2025); Techsummit 2025 & 2026, Datacamp 2026, Digitalized 2026 ve Boğaziçi Bilişim Ödülleri 2026'da PR üyesi / lideri",
+    "Boğaziçi Radyo Ödülleri 2025 (Radyo Boğaziçi) – PR lideri",
+    "Alma Mater Satranç Turnuvası (2. Edisyon) – Uluslararası Temsilci (Bologna Üniversitesi)",
+    "Amatör Fotoğrafçılık Sertifikası (İFSAK & BUFOK ile)"
+  ],
+  "additional": [
+    "23 Vakfı – Fellowship: Ekim 2026'da kabul edildim (2026–2027 dönemi)",
+    "Türkiye Milli Satranç Takımı Seçmeleri – Milli Takım Havuzu Oyuncusu, 2014–2020",
+    "Çeşitli fanzinlerde illüstratör",
+    "Erasmus+ – Yüz Yüze İletişim, Romanya, 2022"
+  ]
+}
